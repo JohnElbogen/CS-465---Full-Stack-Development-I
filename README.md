@@ -2,10 +2,10 @@
 
 **Architecture**
 
-* *Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).* *
+* *Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).*
 The different types of development all had their own unique challenges. One of the more confusing portions was getting each component to interact successfully. This often meant implementing calls and imports in the correct spots.  SPA was great for loading speed and creating unique elements to implement different features and have full control over each component. Express HTML and JavaScript were straightforward and less complex.
 
-* *Why did the backend use a NoSQL MongoDB database?* *
+* *Why did the backend use a NoSQL MongoDB database?*
 NoSQL database has many advantages. For one, information that is sensitive can be easily protected and secured. Also RESTful api is easily implemented through Mongo queries. Information storage and management just becomes easier when utilizing Mongodb.
 
 **Functionality**
